@@ -1,0 +1,17 @@
+H:\FYP\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+H:\FYP\DAL\bin\Debug\netstandard2.0\DAL.dll
+H:\FYP\DAL\bin\Debug\netstandard2.0\DAL.pdb
+H:\FYP\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+H:\FYP\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+H:\FYP\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+H:\FYP\DAL\obj\Debug\netstandard2.0\DAL.dll
+H:\FYP\DAL\obj\Debug\netstandard2.0\DAL.pdb
+H:\FYP\project\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+H:\FYP\project\DAL\bin\Debug\netstandard2.0\DAL.dll
+H:\FYP\project\DAL\bin\Debug\netstandard2.0\DAL.pdb
+H:\FYP\project\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+H:\FYP\project\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+H:\FYP\project\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+H:\FYP\project\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+H:\FYP\project\DAL\obj\Debug\netstandard2.0\DAL.dll
+H:\FYP\project\DAL\obj\Debug\netstandard2.0\DAL.pdb
